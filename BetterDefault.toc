@@ -1,0 +1,11 @@
+﻿## Interface: 70000
+## Title: Better Default
+## Notes: 
+## Notes-zhCN: 
+## Author: Samson
+## Version: 0.1
+
+
+
+
+
